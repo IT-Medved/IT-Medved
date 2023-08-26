@@ -9,8 +9,14 @@
 
 ###
 🤗thnx for support!🫂
+
 BTC(main) bc1qcg5cp6cjlyv23a7k4u49gkrmllp9m4zps8hswy
+
 ETH(main) 0xe5c61eF17E1B201C7F4DD48A1129Ae29908dd1f9
+
 USDT(Tron) TQUCujAXcPh9rv4pDFDkwzL7RZsVk3hbqH
+
 TON(main) EQCy7tNZSZYJTM4hEPJvzP3HhhAbsGPcdFmRFnE7iiOhdnX_
+
 Doge(BnB smart chain) 0xe5c61eF17E1B201C7F4DD48A1129Ae29908dd1f9
+
